@@ -17,6 +17,7 @@ public class App {
 
         System.out.print("Enter product quantity:");
         product.quantity = sc.nextInt();
+    
 
         sc.close();
 
